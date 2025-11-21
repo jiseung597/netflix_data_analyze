@@ -110,33 +110,37 @@ Streamlit을 통해 웹 기반으로 분석 사이트를 제작했습니다.
 
 ---
 
-## 📌 8. 코드 저장소 (GitHub) / 코드 Push
+## <span style="font-size:26px;">📌 8. 코드 저장소 (GitHub) / 코드 Push</span>
 
-이 프로젝트의 전체 코드는 본 GitHub Repository에 저장되어 있으며  
+이 프로젝트의 전체 코드는 GitHub Repository에 저장되어 있으며  
 다음 명령어를 통해 push되었습니다:
 
-```bash
+<pre><code>
 git add .
 git commit -m "Initial commit: Netflix dashboard project"
 git push origin main
+</code></pre>
 
-📌 9. 전체 프로젝트 구조
+---
+
+## <span style="font-size:26px;">📌 9. 전체 프로젝트 구조</span>
+
+<pre><code>
 📦 netflix_data_analyze
  ┣ 📄 app.py
  ┣ 📄 netflix_titles.csv
  ┣ 📄 README.md
  ┗ 📄 requirements.txt (optional)
+</code></pre>
 
-📌 10. 사용 기술
+---
 
-Python 3.x
+## <span style="font-size:26px;">📌 10. 사용 기술</span>
 
-Streamlit
+- Python 3.x  
+- Streamlit  
+- Pandas  
+- Plotly Express  
+- Collections.Counter  
+- Pathlib
 
-Pandas
-
-Plotly Express
-
-Collections.Counter
-
-Pathlib
