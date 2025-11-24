@@ -105,8 +105,7 @@ Streamlit을 통해 웹 기반으로 분석 사이트를 제작했습니다.
 ## 📌 7. 외부 URL (Streamlit Cloud)
 
 👉 **실행 사이트 링크:**  
-`https://00-your-streamlit-url.streamlit.app/`  
-(※ Streamlit 배포 후 실제 URL로 교체)
+https://netflixdataanalyze-kdq2dqf2yqkrcomf46pjrz.streamlit.app/
 
 ---
 
