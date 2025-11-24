@@ -109,18 +109,38 @@ https://netflixdataanalyze-kdq2dqf2yqkrcomf46pjrz.streamlit.app/
 
 ---
 
-## <span style="font-size:26px;">📌 8. 코드 저장소 (GitHub) / 코드 Push</span>
+## 📌 8. 코드 저장소 (GitHub) / 코드 Push
 
-이 프로젝트의 전체 코드는 GitHub Repository에 저장되어 있으며  
-다음 명령어를 통해 push되었습니다:
+이 프로젝트의 전체 코드는 GitHub Repository에 업로드되어 있으며  
+다음 저장소에서 확인할 수 있습니다:
 
-<pre><code>
+🔗 **GitHub Repository:**  
+https://github.com/jiseung597/netflix_data_analyze
+
+---
+
+### 📤 코드 업로드 방법
+
+이번 프로젝트의 코드는 GitHub의  
+**Add file → Upload files** 기능을 사용하여 업로드하였습니다.
+
+업로드한 파일 목록은 다음과 같습니다:
+
+- app.py  
+- netflix_titles.csv  
+- README.md  
+- requirements.txt  
+
+---
+
+### 🔧 (참고) Git 명령어를 사용한 push 방법
+
+프로젝트를 로컬에서 Git을 이용해 push할 경우 아래 명령어를 사용할 수 있습니다:
+
+```bash
 git add .
 git commit -m "Initial commit: Netflix dashboard project"
 git push origin main
-</code></pre>
-
----
 
 ## <span style="font-size:26px;">📌 9. 전체 프로젝트 구조</span>
 
