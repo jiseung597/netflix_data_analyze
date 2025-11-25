@@ -71,9 +71,7 @@ Streamlit을 통해 웹 기반으로 분석 사이트를 제작했습니다.
 ## 📌 5. 시연 동영상 (YouTube)
 
 👉 **시연 영상 링크:**  
-`https://www.youtube.com/여기에_넣기`
-
-(※ 영상 업로드 후 실제 링크로 교체하세요!)
+https://www.youtube.com/watch?v=eLirQ6C0lkc
 
 ---
 
